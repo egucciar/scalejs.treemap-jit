@@ -1,0 +1,7 @@
+﻿({
+	mainConfigFile: '../config.js',
+    include: 'scalejs.treemap-jit',
+    exclude: [
+        'scalejs!core'
+    ]
+})
